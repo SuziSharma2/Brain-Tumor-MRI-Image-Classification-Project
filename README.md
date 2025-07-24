@@ -67,6 +67,16 @@ A deeper architecture with residual connections for high accuracy on complex ima
   - `Training/` and `Testing/` folders
   - Each with subfolders: `glioma`, `meningioma`, `pituitary`, `notumor`
 
+## 📦 Download Trained Models
+
+Download the `.h5` model files from the [GitHub Release page](https://github.com/SuziSharma2/brain-tumor-classification/releases/tag/v1.0-models) and place them inside the `models/` folder:
+
+- `models/custom_cnn_model.h5`
+- `models/mobilenet_model.h5`
+- `models/resnet_model.h5`
+
+
+
 ---
 
 ## 🖥️ How to Run Locally
